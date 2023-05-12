@@ -1,0 +1,6 @@
+rootProject.name = 'fvpn'
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':vpnLib'
+project(':vpnLib').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-simple-openvpn/vpnLib')
+include ':app'
+includeBuild('../node_modules/react-native-gradle-plugin')

@@ -1,0 +1,360 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /home/fploit/.gradle/caches/transforms-3/512e42cc0c381508f2d1b1ddcc0193bd/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /home/fploit/.gradle/caches/transforms-3/db3a645b5c401b5669a12f79ae5c6c0c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/fploit/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-vector-icons] /home/fploit/Desktop/fvpn/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fploit/.gradle/caches/transforms-3/61d40ffb2f470954573454bf76bc5917/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/c03d8241981f4d52632c5c158e550467/transformed/jetified-hermes-android-0.71.8-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/fploit/.gradle/caches/transforms-3/b515b38be608f5a762db9315db6d46ab/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/fploit/.gradle/caches/transforms-3/ae99e443f33005373a1c631abeddf18e/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/fploit/.gradle/caches/transforms-3/ad1425aacf3a864807c621770345f4ad/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/fploit/.gradle/caches/transforms-3/688355200c40aa27a4dab2e929598949/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/fploit/.gradle/caches/transforms-3/4ee467b525312f17410d1ceea61d24af/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/fploit/.gradle/caches/transforms-3/f34db75c36d507e27ae2d16b94e01790/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/fploit/.gradle/caches/transforms-3/f4a65ce6ec58fd6d97bcb819934dfdd7/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/fploit/.gradle/caches/transforms-3/4f7da19449495f0d794a3cead1086df4/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/fploit/.gradle/caches/transforms-3/7733ba52bf16aacb848a21e72f3f6a02/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/fploit/.gradle/caches/transforms-3/d2960cc28ac3619646643ca9394ef73d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/fploit/.gradle/caches/transforms-3/8b74f06b0284d35c494f7aed424722de/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/fploit/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/fploit/.gradle/caches/transforms-3/bf50de892a30e2807510ad0265edf4e8/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/fploit/.gradle/caches/transforms-3/2cbebb8888325f7b1244a9c0b037b3ff/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/fploit/.gradle/caches/transforms-3/056cd6cf716cc00f29e82fb5eb0e0d8c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/fploit/.gradle/caches/transforms-3/62fcea25716e852e611a74dc9cb458b4/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [:vpnLib] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/vpnLib/build/intermediates/merged_manifest/uiDebug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/fploit/.gradle/caches/transforms-3/2869819762abc67901fd58a9b84e0d6d/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/fploit/.gradle/caches/transforms-3/93d8acfd8e40425531632c8aedd9b90e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/fploit/.gradle/caches/transforms-3/858a0a1ce5582950d896423a8f83984e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /home/fploit/.gradle/caches/transforms-3/305b398eafd13a2f85fecdd51619bbe3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/fploit/.gradle/caches/transforms-3/ac49766205ccd42177b4d582840522f2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/fploit/.gradle/caches/transforms-3/a8fbff62c36ce62e335fe78db7cb3794/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/fploit/.gradle/caches/transforms-3/65bba5c785f706bb99b94479c9483ed7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/fploit/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /home/fploit/.gradle/caches/transforms-3/d11b6876e6eb8c85795979da7f2458f5/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/fploit/.gradle/caches/transforms-3/0d12e24f2c8d45eb1737ab5a99280ee1/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/fploit/.gradle/caches/transforms-3/05a7104067522b05c86dc7c5ba14fe4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fploit/.gradle/caches/transforms-3/d032a7771287ac848f1914782f85a55e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fploit/.gradle/caches/transforms-3/f0b9f43e80fd6d6d46007d03a0449aa0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/fploit/.gradle/caches/transforms-3/a571f1a33ae39cbb5d3e5c5b51c71d19/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fploit/.gradle/caches/transforms-3/cfcf84fb74ea4e77b31ced41acc5b996/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fploit/.gradle/caches/transforms-3/ac26a9e17786512c843a370c78c8ea62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fploit/.gradle/caches/transforms-3/0fee5f4281872175dc7d846c5d287ade/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/fploit/.gradle/caches/transforms-3/bebae82550fb8d5a8ff7bc1c7d5c4d31/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/fploit/.gradle/caches/transforms-3/50a0d758564336ca04635924d830a399/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/fploit/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fploit/.gradle/caches/transforms-3/a082b73e574a24be0b6713b949b71b9a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/fploit/.gradle/caches/transforms-3/960424dcc50454306bc6ce467afe7684/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/fploit/.gradle/caches/transforms-3/9502a6bb71cbe65ff7605c9abe0fd9c7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/fploit/.gradle/caches/transforms-3/3bae22501956cb2f40cb2aae7d68aabd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fploit/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fploit/.gradle/caches/transforms-3/5acd99f45ac5473f0f7929dc05b6c0ab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/fploit/.gradle/caches/transforms-3/63bd4c0fcce7ee6ad70bcbb2be8cf85c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/fploit/.gradle/caches/transforms-3/3584cd402b4fda3a4c5564688eaa83ea/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fploit/.gradle/caches/transforms-3/c3849af1901b8ea4ddc083287c7f1748/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/fploit/.gradle/caches/transforms-3/68bcfb91eaf09d5b3ad76e71e3371ec2/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/fploit/.gradle/caches/transforms-3/2c406cc44c7e51a6483579314a113f0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/fploit/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/fploit/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+MERGED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:3:22-64
+application
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-29:19
+MERGED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-29:19
+MERGED from [com.facebook.react:react-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/fploit/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/fploit/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/fploit/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/fploit/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.core:core:1.7.0] /home/fploit/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/fploit/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fploit/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fploit/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-41
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/fploit/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:7:7-39
+	tools:ignore
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:9:7-52
+	tools:targetApi
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:6:7-38
+activity#com.fvpn.MainActivity
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:12:7-23:18
+	android:label
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:launchMode
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:16:9-40
+	android:windowSoftInputMode
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:exported
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:18:9-32
+	android:configChanges
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:15:9-118
+	android:name
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:13:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /home/fploit/.gradle/caches/transforms-3/512e42cc0c381508f2d1b1ddcc0193bd/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /home/fploit/.gradle/caches/transforms-3/512e42cc0c381508f2d1b1ddcc0193bd/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /home/fploit/.gradle/caches/transforms-3/db3a645b5c401b5669a12f79ae5c6c0c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /home/fploit/.gradle/caches/transforms-3/db3a645b5c401b5669a12f79ae5c6c0c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/fploit/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/fploit/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-vector-icons] /home/fploit/Desktop/fvpn/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/fploit/Desktop/fvpn/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fploit/.gradle/caches/transforms-3/61d40ffb2f470954573454bf76bc5917/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/fploit/.gradle/caches/transforms-3/61d40ffb2f470954573454bf76bc5917/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/c03d8241981f4d52632c5c158e550467/transformed/jetified-hermes-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.8] /home/fploit/.gradle/caches/transforms-3/c03d8241981f4d52632c5c158e550467/transformed/jetified-hermes-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/fploit/.gradle/caches/transforms-3/b515b38be608f5a762db9315db6d46ab/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/fploit/.gradle/caches/transforms-3/b515b38be608f5a762db9315db6d46ab/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/fploit/.gradle/caches/transforms-3/ae99e443f33005373a1c631abeddf18e/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/fploit/.gradle/caches/transforms-3/ae99e443f33005373a1c631abeddf18e/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/fploit/.gradle/caches/transforms-3/ad1425aacf3a864807c621770345f4ad/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/fploit/.gradle/caches/transforms-3/ad1425aacf3a864807c621770345f4ad/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/fploit/.gradle/caches/transforms-3/688355200c40aa27a4dab2e929598949/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/fploit/.gradle/caches/transforms-3/688355200c40aa27a4dab2e929598949/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/fploit/.gradle/caches/transforms-3/4ee467b525312f17410d1ceea61d24af/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/fploit/.gradle/caches/transforms-3/4ee467b525312f17410d1ceea61d24af/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/fploit/.gradle/caches/transforms-3/f34db75c36d507e27ae2d16b94e01790/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/fploit/.gradle/caches/transforms-3/f34db75c36d507e27ae2d16b94e01790/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/fploit/.gradle/caches/transforms-3/f4a65ce6ec58fd6d97bcb819934dfdd7/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/fploit/.gradle/caches/transforms-3/f4a65ce6ec58fd6d97bcb819934dfdd7/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/fploit/.gradle/caches/transforms-3/4f7da19449495f0d794a3cead1086df4/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/fploit/.gradle/caches/transforms-3/4f7da19449495f0d794a3cead1086df4/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/fploit/.gradle/caches/transforms-3/7733ba52bf16aacb848a21e72f3f6a02/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/fploit/.gradle/caches/transforms-3/7733ba52bf16aacb848a21e72f3f6a02/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/fploit/.gradle/caches/transforms-3/d2960cc28ac3619646643ca9394ef73d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/fploit/.gradle/caches/transforms-3/d2960cc28ac3619646643ca9394ef73d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/fploit/.gradle/caches/transforms-3/8b74f06b0284d35c494f7aed424722de/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/fploit/.gradle/caches/transforms-3/8b74f06b0284d35c494f7aed424722de/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/fploit/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/fploit/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/fploit/.gradle/caches/transforms-3/bf50de892a30e2807510ad0265edf4e8/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/fploit/.gradle/caches/transforms-3/bf50de892a30e2807510ad0265edf4e8/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/fploit/.gradle/caches/transforms-3/2cbebb8888325f7b1244a9c0b037b3ff/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/fploit/.gradle/caches/transforms-3/2cbebb8888325f7b1244a9c0b037b3ff/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/fploit/.gradle/caches/transforms-3/056cd6cf716cc00f29e82fb5eb0e0d8c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/fploit/.gradle/caches/transforms-3/056cd6cf716cc00f29e82fb5eb0e0d8c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/fploit/.gradle/caches/transforms-3/62fcea25716e852e611a74dc9cb458b4/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/fploit/.gradle/caches/transforms-3/62fcea25716e852e611a74dc9cb458b4/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:vpnLib] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/vpnLib/build/intermediates/merged_manifest/uiDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:vpnLib] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/vpnLib/build/intermediates/merged_manifest/uiDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/fploit/.gradle/caches/transforms-3/2869819762abc67901fd58a9b84e0d6d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/fploit/.gradle/caches/transforms-3/2869819762abc67901fd58a9b84e0d6d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/fploit/.gradle/caches/transforms-3/93d8acfd8e40425531632c8aedd9b90e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/fploit/.gradle/caches/transforms-3/93d8acfd8e40425531632c8aedd9b90e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/fploit/.gradle/caches/transforms-3/858a0a1ce5582950d896423a8f83984e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/fploit/.gradle/caches/transforms-3/858a0a1ce5582950d896423a8f83984e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/fploit/.gradle/caches/transforms-3/305b398eafd13a2f85fecdd51619bbe3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/fploit/.gradle/caches/transforms-3/305b398eafd13a2f85fecdd51619bbe3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/fploit/.gradle/caches/transforms-3/ac49766205ccd42177b4d582840522f2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/fploit/.gradle/caches/transforms-3/ac49766205ccd42177b4d582840522f2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/fploit/.gradle/caches/transforms-3/a8fbff62c36ce62e335fe78db7cb3794/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/fploit/.gradle/caches/transforms-3/a8fbff62c36ce62e335fe78db7cb3794/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/fploit/.gradle/caches/transforms-3/65bba5c785f706bb99b94479c9483ed7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/fploit/.gradle/caches/transforms-3/65bba5c785f706bb99b94479c9483ed7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/fploit/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/fploit/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/fploit/.gradle/caches/transforms-3/d11b6876e6eb8c85795979da7f2458f5/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/fploit/.gradle/caches/transforms-3/d11b6876e6eb8c85795979da7f2458f5/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/fploit/.gradle/caches/transforms-3/0d12e24f2c8d45eb1737ab5a99280ee1/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/fploit/.gradle/caches/transforms-3/0d12e24f2c8d45eb1737ab5a99280ee1/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/fploit/.gradle/caches/transforms-3/05a7104067522b05c86dc7c5ba14fe4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/fploit/.gradle/caches/transforms-3/05a7104067522b05c86dc7c5ba14fe4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fploit/.gradle/caches/transforms-3/d032a7771287ac848f1914782f85a55e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/fploit/.gradle/caches/transforms-3/d032a7771287ac848f1914782f85a55e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fploit/.gradle/caches/transforms-3/f0b9f43e80fd6d6d46007d03a0449aa0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/fploit/.gradle/caches/transforms-3/f0b9f43e80fd6d6d46007d03a0449aa0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/fploit/.gradle/caches/transforms-3/a571f1a33ae39cbb5d3e5c5b51c71d19/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/fploit/.gradle/caches/transforms-3/a571f1a33ae39cbb5d3e5c5b51c71d19/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fploit/.gradle/caches/transforms-3/cfcf84fb74ea4e77b31ced41acc5b996/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/fploit/.gradle/caches/transforms-3/cfcf84fb74ea4e77b31ced41acc5b996/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fploit/.gradle/caches/transforms-3/ac26a9e17786512c843a370c78c8ea62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/fploit/.gradle/caches/transforms-3/ac26a9e17786512c843a370c78c8ea62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fploit/.gradle/caches/transforms-3/0fee5f4281872175dc7d846c5d287ade/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/fploit/.gradle/caches/transforms-3/0fee5f4281872175dc7d846c5d287ade/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fploit/.gradle/caches/transforms-3/bebae82550fb8d5a8ff7bc1c7d5c4d31/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/fploit/.gradle/caches/transforms-3/bebae82550fb8d5a8ff7bc1c7d5c4d31/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/fploit/.gradle/caches/transforms-3/50a0d758564336ca04635924d830a399/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/fploit/.gradle/caches/transforms-3/50a0d758564336ca04635924d830a399/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/fploit/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/fploit/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fploit/.gradle/caches/transforms-3/a082b73e574a24be0b6713b949b71b9a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/fploit/.gradle/caches/transforms-3/a082b73e574a24be0b6713b949b71b9a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/fploit/.gradle/caches/transforms-3/960424dcc50454306bc6ce467afe7684/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/fploit/.gradle/caches/transforms-3/960424dcc50454306bc6ce467afe7684/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/fploit/.gradle/caches/transforms-3/9502a6bb71cbe65ff7605c9abe0fd9c7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/fploit/.gradle/caches/transforms-3/9502a6bb71cbe65ff7605c9abe0fd9c7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/fploit/.gradle/caches/transforms-3/3bae22501956cb2f40cb2aae7d68aabd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/fploit/.gradle/caches/transforms-3/3bae22501956cb2f40cb2aae7d68aabd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fploit/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/fploit/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fploit/.gradle/caches/transforms-3/5acd99f45ac5473f0f7929dc05b6c0ab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/fploit/.gradle/caches/transforms-3/5acd99f45ac5473f0f7929dc05b6c0ab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/fploit/.gradle/caches/transforms-3/63bd4c0fcce7ee6ad70bcbb2be8cf85c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/fploit/.gradle/caches/transforms-3/63bd4c0fcce7ee6ad70bcbb2be8cf85c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/fploit/.gradle/caches/transforms-3/3584cd402b4fda3a4c5564688eaa83ea/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/fploit/.gradle/caches/transforms-3/3584cd402b4fda3a4c5564688eaa83ea/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fploit/.gradle/caches/transforms-3/c3849af1901b8ea4ddc083287c7f1748/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/fploit/.gradle/caches/transforms-3/c3849af1901b8ea4ddc083287c7f1748/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/fploit/.gradle/caches/transforms-3/68bcfb91eaf09d5b3ad76e71e3371ec2/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/fploit/.gradle/caches/transforms-3/68bcfb91eaf09d5b3ad76e71e3371ec2/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/fploit/.gradle/caches/transforms-3/2c406cc44c7e51a6483579314a113f0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/fploit/.gradle/caches/transforms-3/2c406cc44c7e51a6483579314a113f0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /home/fploit/Desktop/fvpn/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /home/fploit/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /home/fploit/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-74
+meta-data#android.content.APP_RESTRICTIONS
+ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:56
+	android:resource
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-53
+	android:name
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-60
+service#de.blinkt.openvpn.core.OpenVPNService
+ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:9-28:19
+	android:exported
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-65
+intent-filter#action:name:android.net.VpnService
+ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-27:29
+action#android.net.VpnService
+ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:17-65
+	android:name
+		ADDED from [:react-native-simple-openvpn] /home/fploit/Desktop/fvpn/node_modules/react-native-simple-openvpn/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:25-62
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/fploit/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/fploit/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/fploit/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/fploit/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
