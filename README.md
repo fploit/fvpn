@@ -17,4 +17,13 @@ yarn install
 
 ### set open vpn server
 1- add your open vpn file (```Japan.ovpn```) to ```android/app/src/main/assets```
+<br>
 2- edit ip, port and file name in ```App.js``` Line 18, 19, 36
+
+### run
+```sh
+npm start
+
+# run in android
+npx react-native run-android
+```
