@@ -5,11 +5,12 @@ react native vpn project (open vpn)
 <img src="https://github.com/fploit/fvpn/blob/main/fvpn.gif" width="200" height="400">
 # Installation
 ```
- cd fvpn
+# Go to the project folder
+cd fvpn
  
- #npm
- npm install
+# npm
+npm install
  
- #yarn
- yarn install
+# yarn
+yarn install
 ```
