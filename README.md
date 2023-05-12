@@ -1,3 +1,3 @@
 # fvpn
 react native vpn project (open vpn)
-<img src="https://github.com/fploit/fvpn/blob/main/fvpn.png">
+<img src="https://github.com/fploit/fvpn/blob/main/fvpn.gif">
